@@ -56,5 +56,26 @@
 ## Product Transition
 ### Process Description
 ### Product Transition Guidance
-
+# Crosscutting Technical Management 
+## Technical Planning
+### Process Description
+### Technical Planning Guidance
+## Requirements Management
+### Process Decription
+### Requirements Management Guidance
+## Interface Management 
+### Process Description
+### Interface Management Guidance
+## Technical Risk Management 
+### Risk Management Process Description
+### Risk Management Process Guidance
+## Configuration Management
+### Process Description
+### CM Guidance
+## Technical Data Management
+### Process Description
+### Technical Assessment Guidance
+## Decision Analysis
+### Process Description
+### Decision Analysis Guidance
 
