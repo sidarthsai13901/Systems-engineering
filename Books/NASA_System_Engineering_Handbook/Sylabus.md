@@ -4,4 +4,42 @@
 # Fundamentals of Systems Engineering
 ## Common Technical Processes and the SE Engine
 ## An overview of the  SE engine by Project Phase
-##
+## Example of Using the SE engine
+## Distinvtions between Product veerification and Product Validation
+## Cost Effectiveness Considerations
+## Human Systems intergation (HSI ) in the SE Process
+## Competency Model of System Engineers
+# NASA Program/Project Life Cycle
+## Program Formulation
+## Program Implementation
+## Project Pre-Phase A: Concept Studies
+## Project Phase A: Concept and Technolgy Developement
+## Project Phase B: Preliminary Desgin and Technolgy Completion
+## Project Phase C: Final Desgin and Fabrication
+## Project Phase D:System Assembly, Integration and Test , Launch 
+## Project Phase E: Operations ans Sustainment
+## Project Phase F: Closeout
+## Funding: The Budget Cycle
+## Tailoring and Customization of NRP 7123.1 Requriments
+### Introduction
+### Criteria for Tailoring 
+### Tailoring SE NRP Requirements Using the Compliance Matrix
+### Ways to Tailor a SE Requirement
+### Examples of Tailoring and Customization
+### Approvals for tailoring 
+# System Desgin Processs
+## Stakeholder Expectation Definition
+### Process Description
+### Stakeholder Expectation Definition Guidance
+## Technical Requriments Definition
+### Process Desription
+### Technical Requriements Definition Guidance
+## Logical Decomposition
+### Process Description
+### Logical Decompostion Guidance
+## Design Solution Definition
+### Process Description
+### Desgin Solution Definition Guidance
+## Product Realization
+### Product Implementation
+
