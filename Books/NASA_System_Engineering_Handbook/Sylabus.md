@@ -2,12 +2,12 @@
 ## Purpose
 ## Scope and Depth
 # Fundamentals of Systems Engineering
-## Common Technical Processes and the SE Engine
-## An overview of the  SE engine by Project Phase
+## The Common Technical Processes and the SE Engine
+## An Overview of the  SE engine by Project Phase
 ## Example of Using the SE engine
-## Distinvtions between Product veerification and Product Validation
+## Distinctions between Product verification and Product Validation
 ## Cost Effectiveness Considerations
-## Human Systems intergation (HSI ) in the SE Process
+## Human Systems intergation (HSI) in the SE Process
 ## Competency Model of System Engineers
 # NASA Program/Project Life Cycle
 ## Program Formulation
@@ -40,6 +40,21 @@
 ## Design Solution Definition
 ### Process Description
 ### Desgin Solution Definition Guidance
-## Product Realization
-### Product Implementation
+# Product Realization
+## Product Implementation
+### Process Description
+### Product Implementation Guidance
+## Product Integration
+### Process Description
+### Product Intgration Guidance 
+## Product Verification
+### Process Description
+### Product Verification Guidance
+## Product Validation
+### Process Description
+### Product Validation Guidance
+## Product Transition
+### Process Description
+### Product Transition Guidance
+
 
