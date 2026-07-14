@@ -11,4 +11,7 @@ Note thatthere are areas where the two cornerstones of projectmanagement, SE and
 <img width="1035" height="792" alt="image" src="https://github.com/user-attachments/assets/a0e27338-e79a-4e60-8279-0ba1f655c1ee" />
 There are three sets of common technical processes inNPR 7123.1, NASA Systems Engineering Processesand Requirements: system design, product realiza-tion, and technical management.
 The processes ineach set and their interactions and flows are illustratedby the NPR systems engineering “engine” 
- The processes of the SE engine are usedto develop and realize the end products.
+The processes of the SE engine are usedto develop and realize the end products.
+This chapter provides the application context of the 17 common technical processes required in NPR7123.1.
+<img width="615" height="457" alt="image" src="https://github.com/user-attachments/assets/47f4e02f-9636-4378-a344-7de1361bbd24" />
+
