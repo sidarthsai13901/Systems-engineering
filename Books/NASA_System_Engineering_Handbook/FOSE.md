@@ -15,3 +15,11 @@ The processes of the SE engine are usedto develop and realize the end products.
 This chapter provides the application context of the 17 common technical processes required in NPR7123.1.
 <img width="615" height="457" alt="image" src="https://github.com/user-attachments/assets/47f4e02f-9636-4378-a344-7de1361bbd24" />
 
+System Design Processes: 
+Product Realization Process:
+Technical Management Process:
+
+<img width="615" height="457" alt="image" src="https://github.com/user-attachments/assets/8145945d-b586-4eb8-be8d-e7a90b62ba54" />
+<img width="546" height="500" alt="image" src="https://github.com/user-attachments/assets/517dfe3a-a8ee-4073-b7a9-b4097835ae1c" />
+
+
