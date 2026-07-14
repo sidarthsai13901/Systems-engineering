@@ -20,9 +20,16 @@ The objective of systems engineering is to see that thesystem is designed, built
 Design trade studies, an important part of the sys-tems engineering process, often attempt to finddesigns that provide the best combination of costand effectiveness
 
 the combination of elements that function together to producethe capability required to meet a need. The elementsinclude all hardware, software, equipment, facilities,personnel, processes, and procedures needed for this purpose.
+<img width="522" height="467" alt="image" src="https://github.com/user-attachments/assets/5c7da93b-b484-45c4-961a-c611f631d6ab" />
 
-Competency Model forSystems Engineers
+
+Competency Model fo rSystems Engineers
 There are four levels of proficiencies associated witheach of these competencies:• Team Practitioner/Technical Engineer• Team Lead/Subsystem Lead• Project Systems Engineer• Chief Engineer
+
+<img width="601" height="662" alt="image" src="https://github.com/user-attachments/assets/4eb1c6be-e50f-42d0-b41a-d2cb613628ed" />
+<img width="587" height="701" alt="image" src="https://github.com/user-attachments/assets/5c335bdb-2cd3-4ea2-b8a2-a48e2dcb537d" /> 
+<img width="582" height="497" alt="image" src="https://github.com/user-attachments/assets/13f9431a-5f71-4ca4-a563-4014341d6fb5" />
+
 
 
 
