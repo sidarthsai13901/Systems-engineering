@@ -1,6 +1,6 @@
 There are eight technical management processes used in systems engineering. 
 These processes support the design, development, operation, and management of a system throughout its entire life cycle, from concept to disposal.
-# 6.1 Tecchnical Planning 
+# 6.1 Technical Planning 
 ## Technical Planning Process
 The **Technical Planning Process** establishes how systems engineering activities will be planned, managed, and executed throughout the system lifecycle. It ensures the project achieves its technical objectives while meeting **cost, schedule, and risk** constraints.
 ### Key Objectives
