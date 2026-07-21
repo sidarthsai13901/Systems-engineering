@@ -22,6 +22,60 @@
 <img width="721" height="546" alt="image" src="https://github.com/user-attachments/assets/fb00f0bf-60d0-4be0-b001-f00e9bba172a" />
 <img width="725" height="540" alt="image" src="https://github.com/user-attachments/assets/357b62a9-7bf1-4874-bfc0-89ce26fa1d89" />
 <img width="721" height="547" alt="image" src="https://github.com/user-attachments/assets/bc3191b9-e28a-4a77-9009-55d7d73631f0" />
+<img width="722" height="542" alt="image" src="https://github.com/user-attachments/assets/ec4b5172-6dfb-4f46-b4a3-4901216e1d36" />
+<img width="717" height="551" alt="image" src="https://github.com/user-attachments/assets/a293e548-d7d3-40e3-a837-dc9da759f397" />
+# Introduction to Arcadia engineering steps
+<img width="720" height="537" alt="image" src="https://github.com/user-attachments/assets/d8ae28e5-47cf-4b84-b04b-61dffe305791" />
+<img width="722" height="542" alt="image" src="https://github.com/user-attachments/assets/b4960cb7-8d82-47c8-b46f-fde1ace57942" />
+<img width="726" height="542" alt="image" src="https://github.com/user-attachments/assets/fce253e6-af9e-4405-8253-bbd0d269e8bf" />
+<img width="717" height="537" alt="image" src="https://github.com/user-attachments/assets/46e1ce72-28b0-4e6d-b3ad-e3433220063a" />
+<img width="727" height="532" alt="image" src="https://github.com/user-attachments/assets/e51e3fd9-82c4-45e7-90a3-98fa19403802" />
+# Operational Analysis
+<img width="712" height="382" alt="image" src="https://github.com/user-attachments/assets/069485db-1598-4868-8e4e-12cebe30c854" />
+<img width="720" height="422" alt="image" src="https://github.com/user-attachments/assets/e698f052-8a7c-4c40-adc8-de29be6c9a3f" />
+<img width="717" height="407" alt="image" src="https://github.com/user-attachments/assets/126ed927-79b2-400e-9ef0-cdb2008434b5" />
+<img width="725" height="547" alt="image" src="https://github.com/user-attachments/assets/12d6f604-2f3b-49b1-9c0e-b89a880b7e99" />
+# System Need Analysis
+<img width="721" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb3cda3-2e42-44d8-a324-67c40a203697" />
+<img width="712" height="455" alt="image" src="https://github.com/user-attachments/assets/d43d9bfd-76f1-4f43-ab50-459c0ab700d3" />
+<img width="725" height="550" alt="image" src="https://github.com/user-attachments/assets/8de88fc6-f2c3-4bd2-b6df-63274aa7f004" />
+# Logical Architecture
+<img width="725" height="455" alt="image" src="https://github.com/user-attachments/assets/dcdaa003-94e0-4946-a1f7-6260c7133dcb" />
+<img width="726" height="445" alt="image" src="https://github.com/user-attachments/assets/4b45df75-982e-428c-9027-cf9cb71f05e0" />
+<img width="727" height="545" alt="image" src="https://github.com/user-attachments/assets/851becb9-3e85-4385-bd1e-09e43baa1eb2" />
+# Physical Architecture
+<img width="725" height="477" alt="image" src="https://github.com/user-attachments/assets/2e13b567-d1e6-4ff2-a2c1-4d99a8e3264b" />
+<img width="730" height="457" alt="image" src="https://github.com/user-attachments/assets/7245228b-dd3b-4bdf-a3ee-a36942f001e4" />
+<img width="727" height="545" alt="image" src="https://github.com/user-attachments/assets/5c613c3a-44f7-4833-a5c0-b2856cb30935" />
+# End-Product Breakdown structure
+<img width="726" height="446" alt="image" src="https://github.com/user-attachments/assets/c4cf1876-5a87-4e4c-a90a-bee2dd9aa0dc" />
+# Focus on Functional Analysis, different engineering approaches
+<img width="727" height="550" alt="image" src="https://github.com/user-attachments/assets/78ff309a-3414-4ec4-8f30-1fb8f80b6699" />
+<img width="731" height="546" alt="image" src="https://github.com/user-attachments/assets/775f620d-7e93-495a-85f8-0edee10543a8" />
+<img width="727" height="542" alt="image" src="https://github.com/user-attachments/assets/f4cbcee3-8b89-4adb-b37f-31efd27a9679" /><img width="725" height="546" alt="image" src="https://github.com/user-attachments/assets/520bd2b9-e4f5-419c-b425-761fd24ffb11" />
+<img width="752" height="562" alt="image" src="https://github.com/user-attachments/assets/dc20c067-2fd2-4a8b-9f35-0b0916c5efa8" />
+<img width="756" height="567" alt="image" src="https://github.com/user-attachments/assets/f2cacf94-7ae0-46cb-90c3-ec232180cb1e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
