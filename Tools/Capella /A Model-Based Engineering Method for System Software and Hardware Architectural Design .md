@@ -55,6 +55,46 @@
 <img width="727" height="542" alt="image" src="https://github.com/user-attachments/assets/f4cbcee3-8b89-4adb-b37f-31efd27a9679" /><img width="725" height="546" alt="image" src="https://github.com/user-attachments/assets/520bd2b9-e4f5-419c-b425-761fd24ffb11" />
 <img width="752" height="562" alt="image" src="https://github.com/user-attachments/assets/dc20c067-2fd2-4a8b-9f35-0b0916c5efa8" />
 <img width="756" height="567" alt="image" src="https://github.com/user-attachments/assets/f2cacf94-7ae0-46cb-90c3-ec232180cb1e" />
+# Early Validation: Multi-viewpoint approach for collaborative engineering and non-functional analysis
+<img width="1056" height="787" alt="image" src="https://github.com/user-attachments/assets/823cad82-2eb0-4bfc-a80e-5ed4f838619e" />
+<img width="1052" height="787" alt="image" src="https://github.com/user-attachments/assets/be537c26-8e6a-49f5-807e-74a251a3fd5c" />
+<img width="1047" height="792" alt="image" src="https://github.com/user-attachments/assets/00deb006-9c57-4957-bc0d-5ae9e2a6e959" />
+<img width="1056" height="796" alt="image" src="https://github.com/user-attachments/assets/9da96c5f-38a6-4804-82d0-0c04f034982c" />
+<img width="1047" height="782" alt="image" src="https://github.com/user-attachments/assets/cf3f7433-2ddd-4bc9-a1c1-619ad0c0aade" />
+<img width="1047" height="782" alt="image" src="https://github.com/user-attachments/assets/b8e9ad65-e096-46ab-91bc-b190c1aa0adf" />
+<img width="1050" height="782" alt="image" src="https://github.com/user-attachments/assets/7082b364-51e7-4c63-baaa-7228981b5a38" />
+# Modelling & Validation:On-board Electrical Power System Energy & Thermal system Of a commercial Aircraft
+<img width="1047" height="765" alt="image" src="https://github.com/user-attachments/assets/a6cb8cd1-19e4-4c25-ab4c-602ec4aee1ab" />
+<img width="1037" height="772" alt="image" src="https://github.com/user-attachments/assets/9a93ce55-f31e-4480-91a3-33736c67d932" />
+<img width="1037" height="776" alt="image" src="https://github.com/user-attachments/assets/7e8f97ca-5e14-4873-ab8a-e978e38d859c" />
+# Transition, relationship to requirements, IV&V
+<img width="1042" height="782" alt="image" src="https://github.com/user-attachments/assets/24d2dc93-4bb6-4a8b-8de2-56acc7a9c213" />
+<img width="1042" height="781" alt="image" src="https://github.com/user-attachments/assets/fea14ce5-997d-48bc-ac15-ff984a9d747e" />
+<img width="1035" height="766" alt="image" src="https://github.com/user-attachments/assets/e9b7a166-dd65-4322-b2c9-9d5ba532c77f" />
+<img width="1037" height="767" alt="image" src="https://github.com/user-attachments/assets/ad908299-3959-4cbc-9ef2-5d78b975d213" />
+<img width="1046" height="772" alt="image" src="https://github.com/user-attachments/assets/e9663b6d-0d72-464f-9177-4d2db349214b" />
+
+# SIEMENS
+<img width="1471" height="815" alt="image" src="https://github.com/user-attachments/assets/13ff4b57-50dc-41de-896f-9973036c2eed" />
+
+<img width="1457" height="800" alt="image" src="https://github.com/user-attachments/assets/da8b58d1-f548-4e09-a81d-f6fb42bb44fb" />
+
+
+<img width="1242" height="690" alt="image" src="https://github.com/user-attachments/assets/4383f15e-6824-482e-8f42-f82d30f96dcb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
